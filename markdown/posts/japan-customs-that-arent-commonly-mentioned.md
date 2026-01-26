@@ -20,5 +20,3 @@ Here are some ~Tokyo~ Japan in general customs I noticed that aren't commonly me
 You also need to assume that nobody in Tokyo speaks English except in touristy areas. You need to know basic phrases like numbers, food terms, and how to say sorry. I found that using an LLM works better than Google Translate since you get context explanations. Some menu are written in "sinosphere-style", you need AI to understand them.
 
 Maps and getting around are pretty easy—just remember your destination name, line name, platform number, and read the signs. You'll never get lost. I never got lost even in huge stations like Shinjuku because the signs are super clear.
-
-Good luck on your trip to Japan!

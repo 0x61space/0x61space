@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-    <title>Portfolio - Andra Antariksa</title>
+    <title>Portfolio - Andra Space</title>
 </svelte:head>
 
 <div class="content">
@@ -13,7 +13,7 @@
         src="https://www.canva.com/design/DAFrJrArj4w/V_PHd7gCASOaTFlHmtEfYw/view?embed"
         allowfullscreen={true}
         allow="fullscreen"
-        title="Portfolio - Andra Antariksa"
+        title="Portfolio - Andra Space"
     >
     </iframe>
     <a

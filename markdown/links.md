@@ -26,3 +26,9 @@
 ### Android
 
 - [Uri Access Lifetime: Still Shorter Than You Might Think](https://commonsware.com/blog/2020/08/08/uri-access-lifetime-still-shorter-than-you-might-think.html)
+
+## Infrastructure
+
+### Rails
+
+- https://www.construction-physics.com/p/strap-rail

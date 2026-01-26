@@ -94,6 +94,14 @@
             font-size: 14px;
             font-weight: bold;
         }
+
+        :global(p) {
+            line-height: 24px;
+        }
+
+        :global(img) {
+            max-width: 100%;
+        }
     }
 
     .comments {

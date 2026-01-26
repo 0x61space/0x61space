@@ -1,14 +1,14 @@
 <svelte:head>
-    <title>About Me - Andra Antariksa</title>
+    <title>About Me - Andra</title>
 </svelte:head>
 
 <div class="content">
     <img src="/image/headline.jpeg" class="image" alt="Its me" />
     <p class="image-caption">荒川, 墨田区</p>
     <h2 class="heading1">
-        Andra Antariksa <small class="small">(lit mean: Space)</small>
+        Andra
     </h2>
-    <h3 class="heading2">安藤空太</h3>
+    <h3 class="heading2">Welcome to my space</h3>
     <div class="paragraphs">
         <p class="paragraph">
             I love wandering around city and country by walking, running, public
