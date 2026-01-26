@@ -1,7 +1,7 @@
 ---
 title: "All-You-Can-Eat dan Konsumerisme"
 date: "2026-01-26"
-published: false
+is_published: false
 ---
 
 I started to hate the idea of going to all you can eat to entertain your tongue.
