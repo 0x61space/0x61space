@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-    <title>Blog - Andra Antariksa</title>
+    <title>Blog - Andra Space</title>
 </svelte:head>
 
 <div class="content">

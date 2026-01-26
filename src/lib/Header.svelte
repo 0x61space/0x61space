@@ -10,11 +10,11 @@
             <li><a href="/portfolio">Portfolio</a></li>
             <li><a href="/contact">Contact</a></li>
         </ul>
-        <h2 class="menu__item center"><a href="/">Andra Antariksa</a></h2>
+        <h2 class="menu__item center"><a href="/">Andra</a></h2>
         <ul class="menu__item right">
             <li>
                 <a
-                    href="https://github.com/andraantariksa"
+                    href="https://github.com/0x61space"
                     class="icon--github"
                     aria-label="GitHub"
                 ></a>
@@ -36,7 +36,7 @@
                 <div class="hamburger__line"></div>
             </button>
         </ul>
-        <h2 class="menu__item center"><a href="/">Andra Antariksa</a></h2>
+        <h2 class="menu__item center"><a href="/">Andra</a></h2>
         <div class="menu__item right"></div>
     </div>
 </header>
@@ -52,7 +52,7 @@
                     </button>
                 </ul>
                 <h2 class="menu__item center">
-                    <a href="/">Andra Antariksa</a>
+                    <a href="/">Andra</a>
                 </h2>
                 <div class="menu__item"></div>
             </div>
@@ -82,7 +82,7 @@
                 <ul class="socials">
                     <li>
                         <a
-                            href="https://github.com/andraantariksa"
+                            href="https://github.com/0x61space"
                             class="icon--github"
                             aria-label="GitHub"
                         ></a>

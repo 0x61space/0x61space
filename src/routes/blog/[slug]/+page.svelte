@@ -23,7 +23,7 @@
 </script>
 
 <svelte:head>
-    <title>{data.post.title} - Andra Antariksa</title>
+    <title>{data.post.title} - Andra Space</title>
     <meta name="description" content={data.post.excerpt} />
 </svelte:head>
 

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Contact - Andra Antariksa</title>
+    <title>Contact - Andra Space</title>
 </svelte:head>
 
 <div class="content">
