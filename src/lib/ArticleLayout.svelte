@@ -21,7 +21,7 @@
 </script>
 
 <svelte:head>
-    <title>{title} - Andra Antariksa</title>
+    <title>{title} - 0x61space</title>
     {#if excerpt}
         <meta name="description" content={excerpt} />
     {/if}
