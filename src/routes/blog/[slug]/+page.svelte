@@ -8,7 +8,11 @@
     $: htmlContent = marked(data.post.content);
 </script>
 
-<ArticleLayout title={data.post.title} date={data.post.date} excerpt={data.post.excerpt} identifier={data.post.slug}>
+<ArticleLayout
+    title={data.post.title}
+    date={data.post.date}
+    excerpt={data.post.excerpt}
+    identifier={data.post.slug}
+>
     {@html htmlContent}
 </ArticleLayout>
-

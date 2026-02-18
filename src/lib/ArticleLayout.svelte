@@ -9,7 +9,7 @@
     onMount(() => {
         var disqus_config = {
             page: {
-                identifier
+                identifier,
             }, // Use a fixed identifier for the links page
         };
         // DON'T EDIT BELOW THIS LINE

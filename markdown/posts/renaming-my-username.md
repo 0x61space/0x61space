@@ -19,11 +19,10 @@ So now I'm working on removing my digital traces. At least with my full name. I 
 
 ---
 
-Indonesian (*Translated by AI*):
+Indonesian (_Translated by AI_):
 
 Saya sudah mulai cemas tentang keberadaan online saya akhir-akhir ini, terutama dengan budaya cancel yang seperti ini. Saya khawatir satu kesalahan kecil bisa membuat saya dipersekusi secara publik. Dan kemudian ada semua urusan AI yang mengambil data semua orang.
 
 Karena nama saya cukup tidak biasa, siapa pun yang mendengarnya bisa langsung Google dan lihat aplikasi apa saja yang saya pakai dan apa yang sudah saya lakukan.
 
 Jadi sekarang saya sedang berusaha menghapus jejak digital saya. Setidaknya dengan nama lengkap saya. Saya masih pakai nama depan di media sosial supaya kenalan atau teman dekat masih bisa mengenali saya.
-

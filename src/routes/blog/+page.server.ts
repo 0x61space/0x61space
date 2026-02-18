@@ -12,9 +12,13 @@ export async function load(): Promise<{ posts: PostMetadata[] }> {
     const posts = await Promise.all(
         files
             .filter((file): file is string => file.endsWith(".md"))
-            .map(async (file): Promise<PostMetadata> => {
+            .map(async (file): Promise<PostMetadata | null> => {
                 const content = await readFile(join(postsPath, file), "utf-8");
                 const { data, content: fileContent } = matter(content);
+
+                if (data.is_published === false) {
+                    return null;
+                }
 
                 return {
                     slug: file.replace(".md", ""),
@@ -28,8 +32,11 @@ export async function load(): Promise<{ posts: PostMetadata[] }> {
 
     // Sort posts by date in descending order (newest first)
     return {
-        posts: posts.sort(
-            (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
-        ),
+        posts: posts
+            .filter((post) => post !== null)
+            .sort(
+                (a, b) =>
+                    new Date(b.date).getTime() - new Date(a.date).getTime(),
+            ),
     };
 }
