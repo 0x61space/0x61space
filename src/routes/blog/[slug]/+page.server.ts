@@ -13,6 +13,12 @@ export async function load({ params }): Promise<{ post: BlogPost }> {
         const content = await readFile(postPath, "utf-8");
         const { data, content: markdownContent } = matter(content);
 
+        if (data.is_published === false) {
+            throw error(404, {
+                message: "Blog post not found",
+            });
+        }
+
         return {
             post: {
                 slug,

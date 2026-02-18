@@ -5,9 +5,7 @@
 <div class="content">
     <img src="/image/headline.jpeg" class="image" alt="Its me" />
     <p class="image-caption">荒川, 墨田区</p>
-    <h2 class="heading1">
-        Andra
-    </h2>
+    <h2 class="heading1">Andra</h2>
     <h3 class="heading2">Welcome to my space</h3>
     <div class="paragraphs">
         <p class="paragraph">

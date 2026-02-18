@@ -1,5 +1,5 @@
 ---
-title: "Kepanjangan Nama \"CSW\""
+title: 'Kepanjangan Nama "CSW"'
 date: "2025-07-11"
 is_published: true
 ---

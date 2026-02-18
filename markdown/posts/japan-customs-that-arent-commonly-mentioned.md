@@ -1,7 +1,7 @@
 ---
 title: "Japan Customs That Aren't Commonly Mentioned"
 date: "2025-06-03"
-is_published: true
+is_published: false
 ---
 
 Here are some ~Tokyo~ Japan in general customs I noticed that aren't commonly mentioned:

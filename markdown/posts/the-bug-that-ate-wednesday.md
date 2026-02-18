@@ -13,7 +13,7 @@ the kind of work that hums quietly
 and asks nothing of you.
 
 Then came the voice from above:
-*"While you're in there, there's something else."*
+_"While you're in there, there's something else."_
 
 There always is.
 
@@ -25,14 +25,14 @@ the way we all agreed it should be.
 
 And the voice returned,
 wearing the face of a question:
-*"Why does it look like this?
-Why did we ever do it this way?"*
+_"Why does it look like this?
+Why did we ever do it this way?"_
 
 As if I had invented history.
 As if the past were my handwriting.
 
-*Why are we even here?
-Why did no one see this sooner?*
+_Why are we even here?
+Why did no one see this sooner?_
 
 I held the question like a stone —
 heavy, shapeless, not mine to answer,
@@ -53,4 +53,4 @@ unanswered,
 unremarkable,
 already forgotten by morning.
 
-*Tomorrow, another thread.*
+_Tomorrow, another thread._
