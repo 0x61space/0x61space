@@ -5,7 +5,7 @@ date: "2026-01-26"
 
 ![Social media use](https://images.pexels.com/photos/11901223/pexels-photo-11901223.jpeg)
 
-Image by [dlxmedia.hu](https://www.pexels.com/photo/close-up-photo-of-a-person-using-a-cellphone-11901223/)
+Photo by [dlxmedia.hu via Pexels](https://www.pexels.com/photo/close-up-photo-of-a-person-using-a-cellphone-11901223/)
 
 ---
 

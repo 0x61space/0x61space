@@ -3,9 +3,9 @@ title: "The Bug That Ate Wednesday"
 date: "2026-02-18"
 ---
 
-![Social media use](https://images.pexels.com/photos/7899579/pexels-photo-7899579.jpeg)
+![Bugs](https://images.pexels.com/photos/7899579/pexels-photo-7899579.jpeg)
 
-Photo by [Egor Kamelev](https://www.pexels.com/photo/a-macro-shot-of-a-shieldbug-7899579/)
+Photo by [Egor Kamelev via Pexels](https://www.pexels.com/photo/a-macro-shot-of-a-shieldbug-7899579/)
 
 I came in with a scalpel —
 a small cut, a clean fix,
